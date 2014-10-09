@@ -1,0 +1,14 @@
+body {
+    background-color: #BDEBC4;
+}
+
+#wrapper {
+    width: 900px; 
+    text-align: center; 
+    margin: 0px auto;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 3em;
+}
